@@ -1,0 +1,15 @@
+D:\OBMENN\IT\c#\HW\HW7\exe47\bin\Debug\net6.0\exe47.exe
+D:\OBMENN\IT\c#\HW\HW7\exe47\bin\Debug\net6.0\exe47.deps.json
+D:\OBMENN\IT\c#\HW\HW7\exe47\bin\Debug\net6.0\exe47.runtimeconfig.json
+D:\OBMENN\IT\c#\HW\HW7\exe47\bin\Debug\net6.0\exe47.dll
+D:\OBMENN\IT\c#\HW\HW7\exe47\bin\Debug\net6.0\exe47.pdb
+D:\OBMENN\IT\c#\HW\HW7\exe47\obj\Debug\net6.0\exe47.csproj.AssemblyReference.cache
+D:\OBMENN\IT\c#\HW\HW7\exe47\obj\Debug\net6.0\exe47.GeneratedMSBuildEditorConfig.editorconfig
+D:\OBMENN\IT\c#\HW\HW7\exe47\obj\Debug\net6.0\exe47.AssemblyInfoInputs.cache
+D:\OBMENN\IT\c#\HW\HW7\exe47\obj\Debug\net6.0\exe47.AssemblyInfo.cs
+D:\OBMENN\IT\c#\HW\HW7\exe47\obj\Debug\net6.0\exe47.csproj.CoreCompileInputs.cache
+D:\OBMENN\IT\c#\HW\HW7\exe47\obj\Debug\net6.0\exe47.dll
+D:\OBMENN\IT\c#\HW\HW7\exe47\obj\Debug\net6.0\refint\exe47.dll
+D:\OBMENN\IT\c#\HW\HW7\exe47\obj\Debug\net6.0\exe47.pdb
+D:\OBMENN\IT\c#\HW\HW7\exe47\obj\Debug\net6.0\exe47.genruntimeconfig.cache
+D:\OBMENN\IT\c#\HW\HW7\exe47\obj\Debug\net6.0\ref\exe47.dll
